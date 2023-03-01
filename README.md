@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Oyinmiebi
 - 👀 I’m interested in learning about Frontend development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nodejs
 - 📫 How to reach me : oyinmiiebi@gmail.com
 
 <!---
